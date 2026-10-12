@@ -1,0 +1,8 @@
+torch
+transformers
+peft
+accelerate
+kagglehub
+scikit-learn
+pandas
+numpy
